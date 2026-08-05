@@ -48,5 +48,20 @@ The model is evaluated using:
 - Recall
 - F1-Score
 
+---##  Results
+
+This project helps identify high-risk customers by analyzing historical financial data. It demonstrates how data analysis and machine learning can support better credit approval decisions.
+
 ---
+
+##  Future Improvements
+
+- Improve model accuracy using advanced machine learning algorithms.
+- Build an interactive dashboard for better visualization.
+- Deploy the model as a web application.
+- Add real-time credit risk prediction.
+
+---
+
+ If you found this project helpful, consider giving it a star on GitHub.
 
